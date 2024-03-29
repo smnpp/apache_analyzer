@@ -1,0 +1,1 @@
+Analog -a -t 11 -g graph.dot -e sample.log

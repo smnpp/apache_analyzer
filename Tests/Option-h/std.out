@@ -1,0 +1,11 @@
+Analog [options] <log>
+Utility to analyse .log files
+Options:
+    -h: Display this help message (run "Analog -h")
+    -e: Exclude media files (jpeg, png, ...)
+    -t <hour>: Only include logs from hour <hour> to <hour>+1 (not included)
+    -g <graph>: Generate a dot graph file named <graph>
+    -s <url>: Root url of the website (defaults to "intranet-if.insa-lyon.fr")
+    -a: Disable ANSI escape codes outputs
+Argument:
+    <log>: Log file to analyse

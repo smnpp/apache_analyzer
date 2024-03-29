@@ -1,0 +1,13 @@
+Parsing "sample.log"...
+Parsed "sample.log" (6 logs, 12 ignored)
+Generating "graph.dot..."
+Generated "graph.dot" (6 nodes, 6 links)
+Extracting top 10 urls...
+Extracted top 10 urls (6 total)
+Top 10 most visited pages of this website:
+1: /page2.html (1 entry)
+2: /page1.html (1 entry)
+3: /page5.html (1 entry)
+4: /page6.html (1 entry)
+5: /page56.html (1 entry)
+6: /page57.html (1 entry)

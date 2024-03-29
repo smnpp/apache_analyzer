@@ -1,0 +1,8 @@
+Parsing "sample.log"...
+Parsed "sample.log" (1 logs, 0 ignored)
+Generating "mini.dot..."
+Generated "mini.dot" (1 nodes, 1 links)
+Extracting top 10 urls...
+Extracted top 10 urls (1 total)
+Top 10 most visited pages of this website:
+1: /page2.html (1 entry)

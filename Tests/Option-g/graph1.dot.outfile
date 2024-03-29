@@ -1,0 +1,17 @@
+digraph {
+	node2[label="/page3.html"];
+	node4[label="/page2.css"];
+	node3[label="/image.jpg"];
+	node1[label="/page1.html"];
+	node6[label="/page2.js"];
+	node5[label="/page2.png"];
+	node0[label="/page2.html"];
+	node2->node0[label="1"];
+	node1->node0[label="1"];
+	node0->node1[label="1"];
+	node0->node2[label="1"];
+	node2->node3[label="1"];
+	node1->node4[label="1"];
+	node1->node5[label="1"];
+	node1->node6[label="1"];
+}

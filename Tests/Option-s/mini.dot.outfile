@@ -1,0 +1,4 @@
+digraph {
+	node0[label="/page2.html"];
+	node0->node0[label="1"];
+}
